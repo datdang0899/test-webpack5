@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkwebpack_static_pages_template=self.webpackChunkwebpack_static_pages_template||[]).push([[443],{622:()=>{console.log((new Date).getFullYear())}},e=>{var a;a=622,e(e.s=a)}]);
